@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nitya Gopal Saha from Raiganj, West Bangal<br><br>- 🔭 I’m working as PHP Developer</p>
+<p align="left">I'm Nitya Gopal Saha from West Bangal, India<br><br>- 🔭 I’m working as PHP Developer</p>
 
 ###
 
